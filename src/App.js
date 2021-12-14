@@ -5,7 +5,7 @@ import './App.css';
 
 function App() {
   return (
-    <Welcom name="jackson"/>
+    <Welcom name="toi"/>
   );
 }
 
